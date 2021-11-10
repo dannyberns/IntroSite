@@ -1,7 +1,7 @@
 
 # Intro - Me.
 
-A One pager intro of myself and the things I'm passionate about.
+A one pager intro of myself and the things I'm passionate about.
 
 
 ## Links
